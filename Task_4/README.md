@@ -5,7 +5,6 @@ Training was performed on the yolov8m.pt model for 20 epochs at a resolution of 
 
 Methodology
 
-Roboflow was used to download a pre-annotated object detection dataset.
 The model was trained using YOLOv8 with default settings on Google Colab.
 Evaluation included validation runs, confusion matrix analysis, and prediction testing on new images.
 
